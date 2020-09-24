@@ -1,0 +1,15 @@
+{
+  "name": "wordlist-generator",
+  "version": "1.0.0",
+  "description": "Generates words",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "js-combinatorics": "^1.4.5"
+  }
+}
